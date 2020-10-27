@@ -7,4 +7,4 @@ Scalable for Mobile, Tablet and Desktop<br>
 Product landing webpage built for displaying a company's available products and pricing.<br>
 Also includes a short description for how said company's business works.
 
-<a href="https://codepen.io/mekglitch/details/MWebWYK">Link to view original on codepen.</a>
+<a href="https://codepen.io/mekglitch/details/abZpbmp">Link to view original on codepen.</a>
